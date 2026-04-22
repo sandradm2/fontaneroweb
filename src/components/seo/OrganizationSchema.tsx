@@ -52,7 +52,7 @@ export function OrganizationSchema() {
         priceRange: "€€",
         currenciesAccepted: "EUR",
         paymentAccepted: "Efectivo, Tarjeta, Transferencia",
-        sameAs: [siteConfig.social.instagram, siteConfig.social.facebook],
+        sameAs: [siteConfig.social.instagram, siteConfig.social.tiktok],
         hasOfferCatalog: {
             "@type": "OfferCatalog",
             name: "Servicios de Reformas e Instalaciones",

@@ -1,7 +1,0 @@
-{
-  "name": "Copy of Servicios Andalusi - Reformas e Instalaciones",
-  "description": "Servicios profesionales de reformas integrales, electricidad, fontanería y mantenimiento en Sevilla.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
